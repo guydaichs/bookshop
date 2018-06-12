@@ -3,7 +3,7 @@ _schema-version: '2.1'
 version: 0.0.1
 
 modules:
- - name: db
+ - name: db 
    type: hdb
    path: db
    parameters:
