@@ -11,8 +11,8 @@ modules:
    requires:
     - name: hdi_db
 
-
- - name: srv
+  
+ - name: srv 
    type: java
    path: srv
    parameters:
