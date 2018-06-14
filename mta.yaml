@@ -6,7 +6,7 @@ modules:
  - name: db 
    type: hdb
    path: db
-   parameters:
+   parameters: 
       buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#v1.6.24
    requires:
     - name: hdi_db
